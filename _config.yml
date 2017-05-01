@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "bhs-test"
+title                    : "bhsquirrel test"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "bhsquirrel"
+description              : "totally confused"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
